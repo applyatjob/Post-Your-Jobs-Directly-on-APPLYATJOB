@@ -1,15 +1,18 @@
 # Post-Your-Jobs-Directly-on-APPLYATJOB
 Previously, employers had to go through multiple steps or external sources to post job listings. Understanding the need for speed and simplicity, APPLYATJOB launched a direct job posting feature. This allows employers and recruiters to post their job openings directly on the APPLYATJOB website — quickly, easily, and without any third-party involvement.
 With just a few clicks, you can now share job listings that instantly become visible to thousands of active job seekers visiting our platform. This feature is perfect for small businesses, startups, and even large organizations looking to streamline their hiring process.
+
 Here’s what makes this feature a hit:
 - Fast and user-friendly interface
 - No middleman – full control in your hands
 - Wider reach to relevant candidates
 - Real-time job listing management
  But that’s not all.
+
 Introducing AI-Powered Interviewing – The Future of Smart Hiring
 We are taking things one step further. APPLYATJOB is excited to unveil a brand-new AI interview feature — a true game-changer in online recruitment.
 Now, when a candidate applies for a job you’ve posted, our integrated AI system steps in to conduct automated initial interviews. This means that as an employer, you get a pre-screened list of applicants with interview insights — saving you countless hours in the early stages of recruitment.
+
 Key highlights of the AI Interview feature:
 Automated Interviews: Once a candidate applies, the AI bot conducts an interview based on your job requirements.
 Smart Shortlisting: The AI evaluates responses, tone, keywords, and skills to shortlist the best candidates.
